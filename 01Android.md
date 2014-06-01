@@ -5,8 +5,6 @@
 
 **提案描述：**
 
-GNURadio开源软件无线电框架提供了全面的对各种通信系统常用的信号处理模块，并提供了完整的信号开发模块，并已经形成完善良好的开源生态环境。但由于长久以来没有价格平易近人的硬件外设方案，使得GNURadio的学习门槛较高。HackRF的出现将使得开源软件无线电被大众普遍认识提供了可能。
-
 HackRF是一款历史上首次从软件、固件、电路原理图和PCB板图完全开源而毫无保留的软件无线电平台，可以覆盖10MHz - 6GHz，已经在kickstarter上成功融资。将会使得更多的软件工程师、Linux黑客们获得直
 接操作无线电波的可能。同时，对无线信号的安全分析也将会成为人们关注的新领域。
 
@@ -32,10 +30,6 @@ HackRF基于libusb库实现的USB设备驱动，提供libhackrf和hackrf-utils�
 <http://gqrx.dk/>
 [SDR Touch](https://play.google.com/store/apps/details?id=marto.androsdr2)
 
-**其他需求：**
-
-* 
-
 **计划：**
 
 * 中期检查前完成HackRF和gqrx和移植
@@ -48,11 +42,11 @@ HackRF基于libusb库实现的USB设备驱动，提供libhackrf和hackrf-utils�
 ## 对学生的要求
 
 * 了解 Android 开发流程
-* 熟悉 libusb 的工作原理
-* 对 Linux 上的一般程序编译/CMake有了解
+* 了解 libusb 或一般USB驱动程序工作原理
+* 对 Linux 上的一般程序编译/CMake/Makefile有了解
 
 ## 完成标准
 
- + `hackrf_transfer`程序运行之后不报错
+ + hackrf_transfer程序运行之后不报错,OTG供电工作正常
  + APK打包后的gqrx可以直接在一般Android平台上运行
  + gqrx程序在20MHz采样率的工作状态下解调FM成功
