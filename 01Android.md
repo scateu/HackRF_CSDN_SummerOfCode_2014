@@ -30,11 +30,11 @@ HackRF基于libusb库实现的USB设备驱动，提供libhackrf和hackrf-utils�
 **项目代码地址：**
 <https://github.com/mossmann/hackrf>
 <http://gqrx.dk/>
-
+[SDR Touch](https://play.google.com/store/apps/details?id=marto.androsdr2)
 
 **其他需求：**
 
-* 编码遵循Ruby语法规范
+* 
 
 **计划：**
 
@@ -44,17 +44,15 @@ HackRF基于libusb库实现的USB设备驱动，提供libhackrf和hackrf-utils�
 **联系方式：**
 
 * email: <cuckoohello@gmail.com>
-* qq:2713263172
-* 手机: 13810378201
-
 
 ## 对学生的要求
 
 * 了解 Android 开发流程
 * 熟悉 libusb 的工作原理
+* 对 Linux 上的一般程序编译/CMake有了解
 
 ## 完成标准
 
  + `hackrf_transfer`程序运行之后不报错
- + gqrx 程序执行之后
-APK程序
+ + APK打包后的gqrx可以直接在一般Android平台上运行
+ + gqrx程序在20MHz采样率的工作状态下解调FM成功
