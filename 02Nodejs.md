@@ -25,11 +25,11 @@ HackRF是一款历史上首次从软件、固件、电路原理图和PCB板图�
 7. 发布代码,发布教程
 
 **项目代码地址：**
-<https://github.com/mossmann/hackrf>
-<http://gqrx.dk/>
-<http://websdr.org/>
-<http://websdr.ewi.utwente.nl:8901/>
-<https://github.com/kpreid/shinysdr>
+ - <https://github.com/mossmann/hackrf>
+ - <http://gqrx.dk/>
+ - <http://websdr.org/>
+ - <http://websdr.ewi.utwente.nl:8901/>
+ - <https://github.com/kpreid/shinysdr>
 
 **计划：**
 

@@ -21,9 +21,9 @@ HackRF是一款历史上首次从软件、固件、电路原理图和PCB板图�
 4. 发布代码及文档
 
 **项目代码地址：**
-<https://github.com/mossmann/hackrf>
-<http://openbts.org>
-<https://svn.berlin.ccc.de/projects/airprobe/>
+ - <https://github.com/mossmann/hackrf>
+ - <http://openbts.org>
+ - <https://svn.berlin.ccc.de/projects/airprobe/>
 
 **计划：**
 

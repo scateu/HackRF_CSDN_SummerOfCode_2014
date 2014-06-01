@@ -26,9 +26,9 @@ HackRF基于libusb库实现的USB设备驱动，提供libhackrf和hackrf-utils�
 3. 将libhackrf与gqrx进行对接，打包成为apk
 
 **项目代码地址：**
-<https://github.com/mossmann/hackrf>
-<http://gqrx.dk/>
-[SDR Touch](https://play.google.com/store/apps/details?id=marto.androsdr2)
+ - <https://github.com/mossmann/hackrf>
+ - <http://gqrx.dk/>
+ - [SDR Touch](https://play.google.com/store/apps/details?id=marto.androsdr2)
 
 **计划：**
 

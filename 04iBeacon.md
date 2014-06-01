@@ -24,8 +24,8 @@ iBeacon是苹果公司2013年9月发布的移动设备用OS（iOS7）上配备�
 6. 发布教程文章
 
 **项目代码地址：**
-<https://github.com/mossmann/hackrf>
-<https://github.com/greatscottgadgets/gr-bluetooth>
+ - <https://github.com/mossmann/hackrf>
+ - <https://github.com/greatscottgadgets/gr-bluetooth>
 
 **计划：**
 

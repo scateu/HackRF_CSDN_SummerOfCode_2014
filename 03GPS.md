@@ -23,8 +23,8 @@ GNURadio开源软件无线电框架提供了全面的对各种通信系统常用
 5. 发布代码及教程
 
 **项目代码地址：**
-<https://github.com/mossmann/hackrf>
-<http://gnss-sdr.org>
+ - <https://github.com/mossmann/hackrf>
+ - <http://gnss-sdr.org>
 
 **计划：**
 

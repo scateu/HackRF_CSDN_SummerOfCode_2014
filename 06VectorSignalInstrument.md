@@ -21,7 +21,7 @@ HackRF是一款历史上首次从软件、固件、电路原理图和PCB板图�
 5. 发布代码并发布文档
 
 **项目代码地址：**
-<https://github.com/mossmann/hackrf>
+ - <https://github.com/mossmann/hackrf>
 
 **计划：**
 
